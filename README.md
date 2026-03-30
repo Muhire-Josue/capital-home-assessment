@@ -1,5 +1,9 @@
 # Capital Home Customer Inquiry Automation
 
+## Video Demo
+
+https://drive.google.com/file/d/1LyWuzrE3KN9NuTq3phGmay5U-n_GZ2vJ/view?usp=sharing
+
 ## Overview
 
 This project is a proof-of-concept customer inquiry assistant for Capital Home Medical Equipment.
